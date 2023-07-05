@@ -2,12 +2,17 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import { appRouter } from './routes/index'
 import reportWebVitals from './reportWebVitals';
+import { HashRouter, RouterProvider } from 'react-router-dom';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <HashRouter>
+      <App />
+    </HashRouter>
+    <RouterProvider router={appRouter} />
   </React.StrictMode>
 );
 

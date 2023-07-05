@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, RouterProvider } from 'react-router-dom';
 
 function App() {
   return (
-    <RouterProvider router={appRouter}/>
+   <> </>
   );
 }
 
