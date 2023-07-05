@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-github/static/css/main.bf2df482.css",
-    "main.js": "/deploy-github/static/js/main.481ebdc1.js",
+    "main.js": "/deploy-github/static/js/main.2f927a4d.js",
     "static/js/787.f17e127b.chunk.js": "/deploy-github/static/js/787.f17e127b.chunk.js",
     "static/media/headphone.png": "/deploy-github/static/media/headphone.68133c58c9fa955dfa03.png",
     "static/media/shirt-game.png": "/deploy-github/static/media/shirt-game.465a1b94daf86d89c89e.png",
@@ -13,11 +13,11 @@
     "static/media/logo1.png": "/deploy-github/static/media/logo1.2eb6a1013af0ba8f1ad3.png",
     "index.html": "/deploy-github/index.html",
     "main.bf2df482.css.map": "/deploy-github/static/css/main.bf2df482.css.map",
-    "main.481ebdc1.js.map": "/deploy-github/static/js/main.481ebdc1.js.map",
+    "main.2f927a4d.js.map": "/deploy-github/static/js/main.2f927a4d.js.map",
     "787.f17e127b.chunk.js.map": "/deploy-github/static/js/787.f17e127b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf2df482.css",
-    "static/js/main.481ebdc1.js"
+    "static/js/main.2f927a4d.js"
   ]
 }
