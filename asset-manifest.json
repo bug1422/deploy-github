@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/deploy-github/static/css/main.073c9b0a.css",
-    "main.js": "/deploy-github/static/js/main.b0a4b060.js",
+    "main.css": "/deploy-github/static/css/main.bf2df482.css",
+    "main.js": "/deploy-github/static/js/main.481ebdc1.js",
     "static/js/787.f17e127b.chunk.js": "/deploy-github/static/js/787.f17e127b.chunk.js",
-    "static/media/logo.svg": "/deploy-github/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/headphone.png": "/deploy-github/static/media/headphone.68133c58c9fa955dfa03.png",
+    "static/media/shirt-game.png": "/deploy-github/static/media/shirt-game.465a1b94daf86d89c89e.png",
+    "static/media/shirt-mu.png": "/deploy-github/static/media/shirt-mu.3e1960874001f39068df.png",
+    "static/media/shirt-t1.png": "/deploy-github/static/media/shirt-t1.4e86dffdb344162d082b.png",
+    "static/media/banner_image.svg": "/deploy-github/static/media/banner_image.f6fcbb300355f0609f5a8aecdb72e2f2.svg",
+    "static/media/dashboard_img.png": "/deploy-github/static/media/dashboard_img.05cfd12de76e4870ec36.png",
+    "static/media/user.png": "/deploy-github/static/media/user.ed0fad3ef77473f7a178.png",
+    "static/media/logo1.png": "/deploy-github/static/media/logo1.2eb6a1013af0ba8f1ad3.png",
     "index.html": "/deploy-github/index.html",
-    "main.073c9b0a.css.map": "/deploy-github/static/css/main.073c9b0a.css.map",
-    "main.b0a4b060.js.map": "/deploy-github/static/js/main.b0a4b060.js.map",
+    "main.bf2df482.css.map": "/deploy-github/static/css/main.bf2df482.css.map",
+    "main.481ebdc1.js.map": "/deploy-github/static/js/main.481ebdc1.js.map",
     "787.f17e127b.chunk.js.map": "/deploy-github/static/js/787.f17e127b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b0a4b060.js"
+    "static/css/main.bf2df482.css",
+    "static/js/main.481ebdc1.js"
   ]
 }
