@@ -47,7 +47,7 @@ export default function HeaderFE() {
         <>
             <Navbar className='header' >
                 <Container>
-                    <Navbar.Brand href="/home" className='logo-container'><img className='logo_header' src={Logo} alt='SecondhandStore' /></Navbar.Brand>
+                    <Navbar.Brand href="/deploy-github" className='logo-container'><img className='logo_header' src={Logo} alt='SecondhandStore' /></Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="responsive-navbar-nav">
                         <Nav className='me-auto col-md-8'>

@@ -1,8 +1,8 @@
 {
-  "homepage": "https://bug1422.github.io/deploy-github/",
+  "homepage": "https://bug1422.github.io/deploy-github",
   "name": "deploy-github",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@babel/core": "^7.22.5",
     "@testing-library/jest-dom": "^5.16.5",

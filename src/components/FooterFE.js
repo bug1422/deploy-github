@@ -8,7 +8,7 @@ export default function FooterFE() {
                 <Row>
                     <Col md={4} sm={12}>
                         <div className="footer-left">
-                            <Navbar.Brand href="#home" className='logo-container'><img className="logo_footer" src={Logo} alt='SeconhandStore'/></Navbar.Brand>
+                            <Navbar.Brand href="/deploy-github" className='logo-container'><img className="logo_footer" src={Logo} alt='SeconhandStore'/></Navbar.Brand>
                             <div className="left-content">
                                
                             </div>
